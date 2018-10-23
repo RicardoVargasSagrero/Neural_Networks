@@ -1,0 +1,6 @@
+1,-1,-1 naranja
+1,1,-1 manzana
+1,-1,1 mango
+-1,-1,-1 pitahaya
+1,1,1 melon
+-1,1,-1 calabaza
